@@ -60,6 +60,7 @@ object frmLocateRecord: TfrmLocateRecord
     Height = 21
     Color = clInfoBk
     Ctl3D = True
+    DropDownCount = 20
     ItemHeight = 13
     ParentCtl3D = False
     TabOrder = 2
